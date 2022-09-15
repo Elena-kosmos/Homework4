@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\Homework4\задача29\bin\Debug\net6.0\задача29.exe
+C:\Users\Елена\Desktop\Homework4\задача29\bin\Debug\net6.0\задача29.deps.json
+C:\Users\Елена\Desktop\Homework4\задача29\bin\Debug\net6.0\задача29.runtimeconfig.json
+C:\Users\Елена\Desktop\Homework4\задача29\bin\Debug\net6.0\задача29.dll
+C:\Users\Елена\Desktop\Homework4\задача29\bin\Debug\net6.0\задача29.pdb
+C:\Users\Елена\Desktop\Homework4\задача29\obj\Debug\net6.0\задача29.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\Homework4\задача29\obj\Debug\net6.0\задача29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\Homework4\задача29\obj\Debug\net6.0\задача29.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\Homework4\задача29\obj\Debug\net6.0\задача29.AssemblyInfo.cs
+C:\Users\Елена\Desktop\Homework4\задача29\obj\Debug\net6.0\задача29.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Homework4\задача29\obj\Debug\net6.0\задача29.dll
+C:\Users\Елена\Desktop\Homework4\задача29\obj\Debug\net6.0\refint\задача29.dll
+C:\Users\Елена\Desktop\Homework4\задача29\obj\Debug\net6.0\задача29.pdb
+C:\Users\Елена\Desktop\Homework4\задача29\obj\Debug\net6.0\задача29.genruntimeconfig.cache
+C:\Users\Елена\Desktop\Homework4\задача29\obj\Debug\net6.0\ref\задача29.dll
